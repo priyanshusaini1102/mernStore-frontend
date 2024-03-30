@@ -11,7 +11,7 @@ import {
     useElements,
 } from "@stripe/react-stripe-js";
 
-import axios from "axios";
+import axios from "../../axiosInstance";
 import { createOrder, clearErrors } from "../../actions/orderActions";
 import { useNavigate } from 'react-router';
 

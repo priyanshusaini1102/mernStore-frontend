@@ -72,6 +72,5 @@
     "mini-css-extract-plugin": "2.4.5",
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.15"
-  },
-  "proxy": "https://mernstore-backend-otyu.onrender.com"
+  }
 }

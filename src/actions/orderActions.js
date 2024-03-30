@@ -20,7 +20,7 @@ import {
   CLEAR_ERRORS,
 } from "../constants/orderConstant";
   
-  import axios from "axios";
+  import axios from "../axiosInstance";
   
   // Create Order
   export const createOrder = (order) => async (dispatch) => {

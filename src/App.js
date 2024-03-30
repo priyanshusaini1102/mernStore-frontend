@@ -18,7 +18,7 @@ import ResetPassword from './components/User/ResetPassword';
 import Cart from './components/Cart/Cart';
 import Shipping from './components/Cart/Shipping';
 import ConfirmOrder from './components/Cart/ConfirmOrder';
-import axios from 'axios';
+import axios from './axiosInstance';
 import PrePayment from './components/Cart/PrePayment';
 import Success from './components/Cart/Success';
 import Orders from './components/Orders/Orders';
