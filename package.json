@@ -24,7 +24,7 @@
     "copy-webpack-plugin": "^5.1.2",
     "country-state-city": "^3.0.1",
     "heroicons-react": "^1.4.1",
-    "react": "^17.0.2",
+    "react": "^16.x.x",
     "react-alert": "^7.0.3",
     "react-alert-template-basic": "^1.0.2",
     "react-cookie": "^4.1.1",
