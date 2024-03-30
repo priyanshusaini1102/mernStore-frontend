@@ -1,0 +1,12 @@
+.banner::after{
+    content: "";
+    width: 100vw;
+    height: max-content;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    clip-path: polygon(100%,68%,0,100%,100%,100%);
+    max-width: 100%;
+
+}
